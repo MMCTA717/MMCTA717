@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MMCTA717
+- 👋 Hi, I’m @Mirian
 - 👀 I’m interested in ...learning a new thing every day
 - 🌱 I’m currently learning ...how to utilize coding programs
 - 💞️ I’m looking to collaborate on ...sofware developing projects
